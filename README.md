@@ -1,11 +1,16 @@
-# Phone Dialer +
-Simple dialing app made using App Inventor
-## installation
-Download the APK from this repo and install it on Android
+## Phone Dialer +
+Phone Dialer +  is a simple phone dialing app that opens your system dialer It's for elderly people who don't quite understand the default dialer app on Android phones
+
 ## Features
-Simple and easy to use
-Minimalist and clean UI
-## Usage
-Open the Phone Dialer + app You should see a textbox and a "Call" button Enter the phone number in the textbox (eg. +1 1234567890) and click the "Call" button to call
-# DISCLAIMER
-THIS APP IS NOT A FULL FLEDGED DIALER APP WITH IT'S OWN UI AND CONTACTS FEATURE
+-Easy to use
+-Big textbox font
+-Brightly colored call button
+-Lightweight, doesn't need to use so many resources
+
+## Installation
+-Open the APK file
+-Allow unknown sources if prompted
+-Click "Install"
+
+## Source
+The source code is provided for people who want to learn compiling or want to add their own features
